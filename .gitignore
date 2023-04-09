@@ -1,0 +1,9 @@
+*
+
+!/.gitignore
+plugins/.gitignore
+
+!plugins
+!plugins/**
+
+!/README.md
